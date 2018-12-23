@@ -1,4 +1,5 @@
-Dosyaları indirip komut istemcisiyle içine giriyoruz. <br>
+Gerekli dosyaları boş bir laravel projesinin üstüne atıyoruz. <br>
+Dosyaların olduğu yola komut istemcisinden giriyoruz. <br>
 Boş bir veritabanı oluşturup .env  dosyasından ayarlarını yapmanız gerekmekte. <br>
 php artisan serve ile localhostta çalıştırdıktan sonra, <br>
 Veritabanını kurmak için  <br> 
